@@ -1,0 +1,5 @@
+{
+  "name": "Maya: Nicholas' Voice Assistant",
+  "description": "A Martian-themed voice assistant for Nicholas Loubser, powered by Gemini 2.5 Native Audio.",
+  "requestFramePermissions": ["microphone"]
+}
